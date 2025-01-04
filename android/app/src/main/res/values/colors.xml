@@ -1,0 +1,8 @@
+<resources>
+    <!-- Primary Color -->
+    <color name="colorPrimary">#6200EE</color>
+    <!-- Primary Dark Color -->
+    <color name="colorPrimaryDark">#3700B3</color>
+    <!-- Accent Color -->
+    <color name="colorAccent">#03DAC5</color>
+</resources>
